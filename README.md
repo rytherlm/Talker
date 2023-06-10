@@ -1,7 +1,7 @@
 # Talker: Private Communication Platform
 Talker is a robust and user-friendly web-based private communication platform that allows individuals to connect and communicate with each other in a secure and convenient manner. Built on the Firebase framework, Talker provides a reliable and scalable solution for fostering seamless conversations and maintaining contact between users. The following sections outline the key features and usage instructions for Talker, along with a brief overview of its architecture.
 
-![Example Image of the Bot In a Server](https://github.com/rytherlm/Bot/blob/main/photo/exampleImage.png)
+![Example Image of the Bot In a Server](https://github.com/rytherlm/Talker/blob/main/public/Screenshot%202023-06-10%20at%202.37.15%20PM.png)
 
 # Key Features
 Private Conversations: Talker enables users to engage in private conversations, ensuring that their messages are only visible to the intended recipients. This feature promotes privacy and confidentiality, making Talker suitable for personal and professional communication alike.
